@@ -1,0 +1,10 @@
+{
+  "name": "Glow Up Club",
+  "short_name": "Glow Up",
+  "description": "Rutines, hàbits, calendari i diari de glow up en local.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fff7fb",
+  "theme_color": "#f6d7e8",
+  "icons": []
+}
